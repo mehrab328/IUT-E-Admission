@@ -1,0 +1,121 @@
+1. Integrate the following with respect to x: xsinx 
+    a) sinx 
+    b) cosx 
+    c) -xsinx+cosx
+    d) sinx+cosx 
+    c
+2. What is the unit of work? 
+    a) J 
+    b) W 
+    c) N 
+    d) m
+    a
+3. Find the value of x: 2x+3=5 
+    a) 2
+    b) 1 
+    c) 3 
+    d) 4 
+    b
+4. What is the derivative of sinx? 
+    a) cotx 
+    b) cosx 
+    c) tanx 
+    d) cosecx 
+    b
+5. Rahim runs in a 2m circular path. Diplacement? 
+    a) 4
+    b) 2 
+    c) 3 
+    d) 0 
+    d
+6. How far will a brick starting from rest fall freely in 3.0 seconds? 
+    a) 3m 
+    b) 9m 
+    c) 4m 
+    d) 12m
+    b
+7. What is accelaration of a car plying in a constant speed v? 
+    a) Infinity 
+    b) 0 
+    c) 1/v 
+    d) 2v 
+    b
+8. As an object falls freely, the kinetic energy of the object _______. 
+    a) Decreases 
+    b) Increases 
+    c) Remain Same 
+    b) Nothing Happens
+    b
+9.What is the atomic mass of H20? 
+    a) 13 
+    b) 20 
+    c) 18 
+    d) 14
+    c
+10.How much energy(J)emits to raise 2kg water's temoparature from 0C-50C? 
+    a) 4200000 
+    b) 42000 
+    c) 4200 
+    d) 420000
+    d
+11.The ionic compound containing Fe3+ and SO42- would have the formula ___. 
+    a) Fe2(SO4)3 
+    b) FeSO4 
+    c) Fe  
+    d) Fe3(SO4)2
+    a
+12.A compound with molecular formula Fe2(SO4)3 would be called:_____________.
+    a) Ferus Sulphate 
+    b) Feric Sulphate 
+    c) Sulphate Iron  
+    d) Iron Sulphate
+    b
+13.Aluminum metal melts at 660 °C. What is the temperature in Kelvin? 
+    a) 933 
+    b) 900
+    c) 733 
+    d) 888
+    a
+14.I am ________ English. 
+    a) master 
+    b) learn 
+    c) teach 
+    d) learning
+    d
+    
+15.________ washing her sweater, Mary hung it up to dry.
+    a) Of 
+    b) When 
+    c) After
+    d) For
+    c
+16.Some day men and women ________ to Mars.
+    a) will be going 
+    b) go 
+    c) will go 
+    d) may goes
+    c
+17.I_______ to read Fairytales in chilhood.
+    a) use
+    b) used 
+    c) study
+    d) using 
+    b
+18.The children ____ their parents by making sandwiches for the whole family.
+    a) Frightened 
+    b) Happy 
+    c) Surprised 
+    d) Hung
+    c
+19.After we saw the play, we had different opinions______ Janes performance.
+    a) of 
+    b) about 
+    c) for 
+    d) in
+    b
+20.Once my friend John Was an ___________ to all. 
+    a) Apple of Discord
+    b) Bad boy
+    c) Naughty
+    d) Random 
+    a
